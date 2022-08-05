@@ -6,16 +6,16 @@
 
 #### API 地址  
 ```html
-http://parse.seanshow.cn/?url=
+http://api.parse.seanshow.cn/?url=
 ```
 
 #### 使用示例  
 
-**http://parse.seanshow.cn/?url=视频分享链接**  
+**http://api.parse.seanshow.cn/?url=视频分享链接**  
 
 例如：
 ```html
-http://parse.seanshow.cn/?url=https://v.douyin.com/2bkXBX5/
+http://api.parse.seanshow.cn/?url=https://v.douyin.com/2bkXBX5/
 ```
 
 解析成功返回内容  
